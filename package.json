@@ -1,0 +1,14 @@
+{
+  "name": "p0-t0-esprima-logging",
+  "version": "0.0.0",
+  "description": "p0-t0-esprima-logging",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "escodegen": "^1.14.1",
+    "espree": "^6.1.2",
+    "estraverse": "^4.3.0"
+  }
+}
